@@ -1,6 +1,6 @@
 //But: Ecrire un programme qui determine si un entier est pair ou impaire.
 //Auteur:Zachary GAGNON
-//Date:2021-01-08
+//Date:2021-02-08
 
 #include<iostream>
 
@@ -25,4 +25,8 @@ void main()
 	}
 
 }
-// tests: 156 est un nombre pair, 1457293 est un nombre impaire, 5728374821 est un nombre impaire, -83746223 est un nomre impaire
+// tests: 156 pair
+//        -2  pair
+//		  -13485729 impair
+//        51728392 pair
+//        9837462517382 error
